@@ -1,0 +1,110 @@
+date,country,content_type,platform,actor,minutes,revenue
+2024-01,India,Music,Spotify,Arijit Singh,82000,95000
+2024-01,India,Music,YouTube,Shreya Ghoshal,74000,72000
+2024-01,India,Movies,Netflix,Shah Rukh Khan,91000,128000
+2024-01,India,Movies,Amazon Prime,Alia Bhatt,76000,98000
+2024-01,India,Series,Netflix,Pankaj Tripathi,84000,110000
+2024-01,India,Series,Hotstar,Samantha Ruth Prabhu,79000,97000
+2024-01,India,Anime,Netflix,Naruto VA,26000,25000
+2024-01,India,Anime,Crunchyroll,One Piece VA,30000,29000
+2024-01,India,Music,Spotify,AP Dhillon,73000,76000
+2024-01,India,Series,Amazon Prime,Manoj Bajpayee,81000,105000
+
+2024-01,USA,Music,Spotify,Taylor Swift,98000,180000
+2024-01,USA,Music,Apple Music,Drake,92000,165000
+2024-01,USA,Movies,Netflix,Leonardo DiCaprio,105000,220000
+2024-01,USA,Movies,Amazon Prime,Tom Cruise,97000,200000
+2024-01,USA,Series,HBO,Pedro Pascal,87000,160000
+2024-01,USA,Series,Netflix,Millie Bobby Brown,82000,145000
+2024-01,USA,Anime,Netflix,Attack Titan VA,36000,52000
+2024-01,USA,Anime,Crunchyroll,Demon Slayer VA,33000,48000
+2024-01,USA,Music,Spotify,Billie Eilish,88000,150000
+2024-01,USA,Series,Amazon Prime,Jack Ryan Cast,79000,138000
+
+2024-01,Japan,Anime,Crunchyroll,Yuki Kaji,120000,250000
+2024-01,Japan,Anime,Netflix,Demon Slayer VA,110000,230000
+2024-01,Japan,Music,Spotify,YOASOBI,74000,115000
+2024-01,Japan,Music,YouTube,Ado,69000,98000
+2024-01,Japan,Movies,Toho,Masaki Suda,61000,98000
+2024-01,Japan,Movies,Netflix,Ken Watanabe,66000,105000
+2024-01,Japan,Series,Netflix,Hiroshi Abe,56000,92000
+2024-01,Japan,Series,Amazon Prime,Alice Cast,54000,89000
+2024-01,Japan,Music,Spotify,LISA,72000,112000
+2024-01,Japan,Series,TV Tokyo,Tokyo Ghoul Cast,50000,86000
+
+2024-01,South Korea,Music,Spotify,BTS,110000,210000
+2024-01,South Korea,Music,YouTube,BLACKPINK,105000,198000
+2024-01,South Korea,Movies,CJ ENM,Song Kang-ho,67000,120000
+2024-01,South Korea,Movies,Netflix,Ma Dong-seok,69000,125000
+2024-01,South Korea,Series,Netflix,Kim Taehyung,98000,175000
+2024-01,South Korea,Series,Netflix,Park Seo-joon,91000,162000
+2024-01,South Korea,Anime,Netflix,Jujutsu VA,29000,41000
+2024-01,South Korea,Anime,Crunchyroll,Naruto VA,27000,38000
+2024-01,South Korea,Music,Spotify,IU,88000,155000
+2024-01,South Korea,Series,TVN,Goblin Cast,86000,158000
+
+2024-01,UK,Music,Spotify,Ed Sheeran,83000,150000
+2024-01,UK,Music,Apple Music,Dua Lipa,79000,142000
+2024-01,UK,Movies,Netflix,Benedict Cumberbatch,64000,125000
+2024-01,UK,Movies,Amazon Prime,Henry Cavill,70000,132000
+2024-01,UK,Series,Netflix,Millie Bobby Brown,72000,135000
+2024-01,UK,Series,BBC,Peaky Blinders Cast,75000,140000
+2024-01,UK,Anime,Crunchyroll,Demon Slayer VA,22000,37000
+2024-01,UK,Anime,Netflix,One Piece VA,24000,39000
+2024-01,UK,Music,Spotify,Sam Smith,76000,138000
+2024-01,UK,Series,Amazon Prime,The Boys Cast,71000,130000
+
+2024-01,France,Music,Spotify,Stromae,64000,112000
+2024-01,France,Music,Apple Music,Angèle,61000,105000
+2024-01,France,Movies,Netflix,Omar Sy,60000,99000
+2024-01,France,Movies,Amazon Prime,Marion Cotillard,57000,96000
+2024-01,France,Series,Netflix,Lupin Cast,72000,135000
+2024-01,France,Series,Canal+,Engrenages Cast,68000,128000
+2024-01,France,Anime,Crunchyroll,One Piece VA,26000,42000
+2024-01,France,Anime,Netflix,Demon Slayer VA,24000,39000
+2024-01,France,Music,Spotify,David Guetta,69000,118000
+2024-01,France,Series,Amazon Prime,The Bureau Cast,65000,121000
+
+2024-01,Germany,Music,Spotify,Rammstein,68000,118000
+2024-01,Germany,Music,Apple Music,Capital Bra,64000,110000
+2024-01,Germany,Movies,Netflix,Diane Kruger,53000,98000
+2024-01,Germany,Movies,Amazon Prime,Daniel Brühl,56000,102000
+2024-01,Germany,Series,Netflix,Dark Cast,46000,87000
+2024-01,Germany,Series,Amazon Prime,Babylon Berlin Cast,52000,95000
+2024-01,Germany,Anime,Crunchyroll,Naruto VA,21000,36000
+2024-01,Germany,Anime,Netflix,Attack Titan VA,23000,39000
+2024-01,Germany,Music,Spotify,Robin Schulz,60000,108000
+2024-01,Germany,Series,Netflix,How to Sell Drugs Cast,48000,90000
+
+2024-01,Spain,Music,Spotify,Rosalía,61000,107000
+2024-01,Spain,Music,YouTube,C. Tangana,59000,99000
+2024-01,Spain,Movies,Netflix,Penélope Cruz,55000,94000
+2024-01,Spain,Movies,Amazon Prime,Antonio Banderas,58000,98000
+2024-01,Spain,Series,Netflix,Money Heist Cast,58000,103000
+2024-01,Spain,Series,Movistar+,Élite Cast,54000,96000
+2024-01,Spain,Anime,Crunchyroll,Demon Slayer VA,20000,34000
+2024-01,Spain,Anime,Netflix,One Piece VA,22000,37000
+2024-01,Spain,Music,Spotify,Aitana,63000,109000
+2024-01,Spain,Series,Amazon Prime,The Head Cast,51000,93000
+
+2024-01,Brazil,Music,Spotify,Anitta,78000,134000
+2024-01,Brazil,Music,YouTube,Pabllo Vittar,74000,120000
+2024-01,Brazil,Movies,Netflix,Wagner Moura,69000,118000
+2024-01,Brazil,Movies,Amazon Prime,Alice Braga,65000,110000
+2024-01,Brazil,Series,Netflix,Narcos Cast,73000,128000
+2024-01,Brazil,Series,Globoplay,3% Cast,67000,115000
+2024-01,Brazil,Anime,Crunchyroll,Naruto VA,24000,38000
+2024-01,Brazil,Anime,Netflix,Attack Titan VA,26000,41000
+2024-01,Brazil,Music,Spotify,Ludmilla,71000,126000
+2024-01,Brazil,Series,Amazon Prime,DOM Cast,62000,108000
+
+2024-01,Mexico,Music,Spotify,Karol G,71000,121000
+2024-01,Mexico,Music,YouTube,Peso Pluma,68000,113000
+2024-01,Mexico,Movies,Netflix,Gael García Bernal,66000,115000
+2024-01,Mexico,Movies,Amazon Prime,Diego Luna,63000,108000
+2024-01,Mexico,Series,Netflix,Narcos Mexico Cast,70000,122000
+2024-01,Mexico,Series,Televisa,La Casa de las Flores Cast,65000,114000
+2024-01,Mexico,Anime,Crunchyroll,Dragon Ball VA,28000,45000
+2024-01,Mexico,Anime,Netflix,One Punch Man VA,26000,42000
+2024-01,Mexico,Music,Spotify,Natalia Lafourcade,69000,119000
+2024-01,Mexico,Series,Amazon Prime,Pan y Circo Cast,61000,105000
