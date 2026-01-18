@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  color: #000;
+  padding: 20px;
+}
+
+body.dark {
+  background: #121212;
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+}
+
+.top-controls {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+button {
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
+}
+
+.cards {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+body.dark .card,
+body.dark canvas {
+  background: #1e1e1e;
+}
+
+canvas {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+#countryInsight {
+  text-align: center;
+  font-weight: bold;
+}
