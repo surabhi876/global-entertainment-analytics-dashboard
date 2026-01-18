@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Global Entertainment Analytics</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Geo Charts -->
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4"></script>
+</head>
+<body class="light">
+
+<h1>🌍 Global Entertainment Analytics</h1>
+
+<!-- TOP CONTROLS -->
+<div class="top-controls">
+  <div>
+    <label>🌐 Country:</label>
+    <select id="countrySelect">
+      <option value="All">All Countries</option>
+    </select>
+  </div>
+
+  <button id="compareBtn">🇮🇳 India vs 🇺🇸 USA</button>
+
+  <button id="themeToggle">🌙 Dark Mode</button>
+</div>
+
+<!-- KPI CARDS -->
+<div class="cards">
+  <div class="card">
+    <h3>Countries</h3>
+    <p id="countryCount"></p>
+  </div>
+  <div class="card">
+    <h3>Watch Minutes</h3>
+    <p id="totalMinutes"></p>
+  </div>
+  <div class="card">
+    <h3>Revenue ($)</h3>
+    <p id="totalRevenue"></p>
+  </div>
+</div>
+
+<h2>📊 Content Popularity</h2>
+<canvas id="contentChart"></canvas>
+
+<h2>💰 Revenue</h2>
+<canvas id="revenueChart"></canvas>
+
+<h2>🎭 Top Actors</h2>
+<canvas id="actorChart"></canvas>
+
+<h2>🌍 Global Revenue Heatmap</h2>
+<canvas id="mapChart"></canvas>
+
+<p id="countryInsight"></p>
+
+<script src="script.js"></script>
+</body>
+</html>
+
+
